@@ -21,6 +21,7 @@ To do so, we are going to use the Dunnhumby dataset. This dataset contains shopp
 
 # Dataset
 [Dunnhumby](https://www.dunnhumby.com/careers/engineering/sourcefiles): This dataset contains household level transactions over two years from a group of 2,500 households who are frequent shoppers at a retailer. Moreover, this dataset provides demographic information for households as well as information about campaigns and discounts of stores.
+
 [USDA National Nutrient DB](https://data.world/craigkelly/usda-national-nutrient-db): This dataset is a flattened version of the USDA National Nutrient Database. It includes nutritional information of the different types of food as well as their description and food category.
 
 # A list of internal milestones up until project milestone 2

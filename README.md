@@ -17,6 +17,7 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 
 # Dataset
 [Dunnhumby](https://www.dunnhumby.com/careers/engineering/sourcefiles): This dataset contains household level transactions over two years from a group of 2,500 households who are frequent shoppers at a retailer. Moreover, this dataset provides demographic information for households as well as information about campaigns and discounts of stores.
+[USDA National Nutrient DB](https://data.world/craigkelly/usda-national-nutrient-db): This dataset is a flattened version of the USDA National Nutrient Database. It includes nutritional information of different type of food as well as their description and food category.
 
 # A list of internal milestones up until project milestone 2
 ## Until 7th of November
@@ -31,3 +32,5 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 
 # Questions for TAs
 * How can we move from household level to individual level? Can we get in contact with Dunnhumby for more information on it?
+* Do you know in which country/countries this data was collected since we could not find information about it in dunnhumby's data description?
+* Do you also know if they use a standardized product description in their product table (COMMODITY_DESC COLUMN) so that we can find more information about these products in different datasets?

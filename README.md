@@ -39,7 +39,7 @@ To do so, we are going to use the Dunnhumby dataset. This dataset contains shopp
 # Milestone 2 : 
 For this milestone two notebooks have been written.
 
-*main.ipynb* contains the descriptive statistics and detailed analysis at demographic, household, product and campaign level.
+*main.ipynb* contains the descriptive statistics and detailed analysis at demographic, household, product and campaign level. \n
 In the first part, datasets are inspected one by one, their inconsintencies are corrected and a dataset analysis is done.
 In the second part, links between the different datasets are made and a higher level analysis is made for the research questions.
 It compares the consuming behaviors of households with their demographic features with a focus on meat consumption.

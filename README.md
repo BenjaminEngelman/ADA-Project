@@ -36,16 +36,26 @@ To do so, we are going to use the Dunnhumby dataset. This dataset contains shopp
 └── README.md
 ```
 
-# A list of internal milestones up until project milestone 2
-## Until 7th of November
+# Milestone 2 : Title
+For this milestone two notebooks have been written.
+
+*main.ipynb* contains the descriptive statistics and detailed analysis at demographic, household, product and campaign level.
+In the first part, datasets are inspected one by one, their inconsintencies are corrected and a dataset analysis is done.
+In the second part, links between the different datasets are made and a higher level analysis is made for the research questions.
+
+*preprocess.ipynb* is a secondary notebook creating preprocessed products datasets depending on their categories (food products, meat products, pure meat products and vegetable products). As this step has less analytical power, it has been decided to write it in a separate notebook. The datasets are then imported in the *main.ipynb* file to be used and analysed.
+
+
 * Get familiar with the tables and their relations
 * Apply descriptive statistics at demographic, household, product and campaign level
 * Discuss outliers, missing values, inconsistent tables and transformations needed
-## Until 24th of November
 * Apply detailed analysis at demographic, household, product and campaign level
 * Track consuming behaviors of household with their demographic features in time
 * Track consumption of meat and vegetarian product at household level in time
 * Analyse the meat consumption at household level and cluster households according to their meat consumption
+
+# Future Work
+
 
 # Questions for TAs
 * How can we move from household level to individual level? Can we get in contact with Dunnhumby for more information on it?

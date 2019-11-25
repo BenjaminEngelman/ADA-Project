@@ -24,6 +24,18 @@ To do so, we are going to use the Dunnhumby dataset. This dataset contains shopp
 
 [USDA National Nutrient DB](https://data.world/craigkelly/usda-national-nutrient-db): This dataset is a flattened version of the USDA National Nutrient Database. It includes nutritional information of the different types of food as well as their description and food category.
 
+# Structure
+```
+.
+├── data # contains all the data from the preprocess steps
+│   ├── food_products.cvs
+│   └── meat_products.csv
+│   └── vegetables_products.csv
+├── main.ipynb # notebook for the second milestone
+├── preprocess.ipynb # notebook with the preprocessing of the data to create meat vegetable, ... dataframe
+└── README.md
+```
+
 # A list of internal milestones up until project milestone 2
 ## Until 7th of November
 * Get familiar with the tables and their relations

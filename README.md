@@ -1,6 +1,6 @@
 # Nice to Meat You: An Analysis on Meat Consumption
 
-**For milestone 2 please look at [this link]https://nbviewer.jupyter.org/github/BenjaminEngelman/ADA-Project/blob/master/main.ipynb?flush_cache=true) that contains the main.ipynb (so that interactive plots work).**
+**For milestone 2 please look at [this link](https://nbviewer.jupyter.org/github/BenjaminEngelman/ADA-Project/blob/master/main.ipynb?flush_cache=true) that contains the main.ipynb (so that interactive plots work).**
 
 # Abstract
 Meat consumption is a highly controversial topic in nowadays society in terms of [environment](https://www.theguardian.com/environment/2018/oct/10/huge-reduction-in-meat-eating-essential-to-avoid-climate-breakdown), [health](https://gamechangersmovie.com/), and [ethical](http://traslosmuros.com/en/slaughterhouse-documentary/) reasons. This situation introduces different ways of consuming meat and divides people according to their behaviors such as vegan, vegetarian, occasional meat consumer, and people consuming large amounts of meats.

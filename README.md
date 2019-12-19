@@ -50,10 +50,10 @@ It compares the consuming behaviors of households with their demographic feature
 
 # Contribution
 
-Soner: Descriptive analysis of demographic data and coupons, Demogrpahic analysis, data story
+Soner: Cleaning and descriptive analysis of demographic data and coupons, demogrpahic analysis, data story
 
 Thomas: Descriptive analysis and preprocessing of products, statistics, comenting of the resutls of the notebook
 
-Benjamin: Descriptive analysis of Transaction data, Group comparison analysis, Interactive plots for the data story
+Benjamin: Cleaning and descriptive analysis of Transaction data, Group comparison analysis, Interactive plots for the data story
 
-David: Descriptive analysis of Transaction data, Time analysis, data story
+David: Cleaning and descriptive analysis of Transaction data, Time analysis, data story

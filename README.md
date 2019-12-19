@@ -51,3 +51,5 @@ Benjamin: Preliminary data analysis of transactions, group comparison analysis, 
 David: Preliminary data analysis of Transaction data, time analysis, coding the data story
 
 Although these are the main division of work, everyone patricipated in almost all the tasks as we were most of the time working and together discussing the results.
+
+The four of us will work on the final presentation.

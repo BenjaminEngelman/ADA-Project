@@ -52,7 +52,7 @@ It compares the consuming behaviors of households with their demographic feature
 
 Soner: Descriptive analysis of demographic data and coupons, Demogrpahic analysis, data story
 
-Thomas: Descriptive analysis and preprocessing of products, statistics, analyse and comenting of the resutls
+Thomas: Descriptive analysis and preprocessing of products, statistics, comenting of the resutls of the notebook
 
 Benjamin: Descriptive analysis of Transaction data, Group comparison analysis, Interactive plots for the data story
 

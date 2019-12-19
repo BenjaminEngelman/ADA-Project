@@ -1,6 +1,6 @@
 # Nice to Meat You: An Analysis on Meat Consumption
 
-**Data analysis with interactive plots is available [here](https://nbviewer.jupyter.org/github/BenjaminEngelman/ADA-Project/blob/master/main.ipynb?flush_cache=true).
+**Data analysis with interactive plots is available [here](https://nbviewer.jupyter.org/github/BenjaminEngelman/ADA-Project/blob/master/main.ipynb?flush_cache=true).**
 
 **The data story is available [here](http://benjaminengelman.github.io/).**
 

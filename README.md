@@ -56,7 +56,7 @@ Soner: Preliminary data analysis of demographic data and coupons, deeper demogrp
 
 Thomas: Preliminary data analysis and preprocessing of products, statistics, group comparison analysis.
 
-Benjamin: Preliminary data analysis of Transaction data, group comparison analysis, Interactive plots for the data story
+Benjamin: Preliminary data analysis of Transaction data, group comparison analysis, interactive plots for the data story
 
 David: Preliminary data analysis of Transaction data, Time analysis, data story
 

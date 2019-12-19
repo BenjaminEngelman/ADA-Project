@@ -57,3 +57,5 @@ Thomas: Descriptive analysis and preprocessing of products, statistics, comentin
 Benjamin: Cleaning and descriptive analysis of Transaction data, Group comparison analysis, Interactive plots for the data story
 
 David: Cleaning and descriptive analysis of Transaction data, Time analysis, data story
+
+These are the main contributions but everyone patricipated in almost all the tasks as we were most of the time working together.

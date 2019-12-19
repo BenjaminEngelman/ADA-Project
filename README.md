@@ -38,7 +38,7 @@ To do so, we are going to use the Dunnhumby dataset. This dataset contains shopp
 └── README.md
 ```
 
-# Milestone 2 : 
+# Milestone 2
 For this milestone two notebooks have been written.
 
 *main.ipynb* contains the descriptive statistics and detailed analysis at demographic, household, product and campaign level. <br/>
@@ -47,3 +47,13 @@ In the second part, links between the different datasets are made and a higher l
 It compares the consuming behaviors of households with their demographic features with a focus on meat consumption.
 
 *preprocess.ipynb* is a secondary notebook creating preprocessed products datasets depending on their categories (food products, meat products, pure meat products and vegetable products). As this step has less analytical power, it has been decided to write it in a separate notebook. The datasets are then imported in the *main.ipynb* file to be used and analysed.
+
+# Contribution
+
+Soner: Descriptive analysis of demographic data and coupons, Demogrpahic analysis, data story
+
+Thomas: Descriptive analysis and preprocessing of products, statistics, analyse and comenting of the resutls
+
+Benjamin: Descriptive analysis of Transaction data, Group comparison analysis, Interactive plots for the data story
+
+David: Descriptive analysis of Transaction data, Time analysis, data story

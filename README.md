@@ -1,6 +1,6 @@
 # Nice to Meat You: An Analysis on Meat Consumption
 
-**For milestone 3 please look at [this link](https://nbviewer.jupyter.org/github/BenjaminEngelman/ADA-Project/blob/master/main.ipynb?flush_cache=true) that contains the main.ipynb (so that interactive plots work).**
+**Data analysis with interactive plots is available [here](https://nbviewer.jupyter.org/github/BenjaminEngelman/ADA-Project/blob/master/main.ipynb?flush_cache=true).
 
 **The data story is available [here](http://benjaminengelman.github.io/).**
 
@@ -26,38 +26,29 @@ To do so, we are going to use the Dunnhumby dataset. This dataset contains shopp
 # Dataset
 [Dunnhumby](https://www.dunnhumby.com/careers/engineering/sourcefiles): This dataset contains household level transactions over two years from a group of 2,500 households who are frequent shoppers at a retailer. Moreover, this dataset provides demographic information for households as well as information about campaigns and discounts of stores.
 
-[USDA National Nutrient DB](https://data.world/craigkelly/usda-national-nutrient-db): This dataset is a flattened version of the USDA National Nutrient Database. It includes nutritional information of the different types of food as well as their description and food category.
-
 # Structure
 ```
 .
 ├── data # contains all the data from the preprocess steps
-│   ├── food_products.cvs
+│   ├── food_products.csv
 │   └── meat_products.csv
 │   └── vegetables_products.csv
-├── main.ipynb # notebook for the second milestone
-├── preprocess.ipynb # notebook with the preprocessing of the data to create meat vegetable, ... dataframe
+│   └── pure_meat_products.csv
+│   └── spentt_by_houshold.csv
+├── main.ipynb # notebook with complete work of our research
+├── preprocess.ipynb # notebook with the preprocessing of the data to create related dataframes
+├── statistics.csv # notebook that contains results of statistical tests applied in main notebook
 └── README.md
 ```
 
-# Milestone 2
-For this milestone two notebooks have been written.
-
-*main.ipynb* contains the descriptive statistics and detailed analysis at demographic, household, product and campaign level. <br/>
-In the first part, datasets are inspected one by one, their inconsintencies are corrected and a dataset analysis is done.<br/>
-In the second part, links between the different datasets are made and a higher level analysis is made for the research questions.
-It compares the consuming behaviors of households with their demographic features with a focus on meat consumption.
-
-*preprocess.ipynb* is a secondary notebook creating preprocessed products datasets depending on their categories (food products, meat products, pure meat products and vegetable products). As this step has less analytical power, it has been decided to write it in a separate notebook. The datasets are then imported in the *main.ipynb* file to be used and analysed.
-
 # Contribution
 
-Soner: Preliminary data analysis of demographic data and coupons, deeper demogrpahic analysis (milestone 3), data story
+Soner: Preliminary data analysis of demographic data and coupons, demographic analysis on consumption, design of data story
 
-Thomas: Preliminary data analysis and preprocessing of products, statistics, group comparison analysis.
+Thomas: Preliminary data analysis and preprocessing of products, statistical tests, group comparisons.
 
-Benjamin: Preliminary data analysis of Transaction data, group comparison analysis, interactive plots for the data story
+Benjamin: Preliminary data analysis of transactions, group comparison analysis, interactive plots and graphs for the data story
 
-David: Preliminary data analysis of Transaction data, Time analysis, data story
+David: Preliminary data analysis of Transaction data, time analysis, coding the data story
 
-These are the main contributions but everyone patricipated in almost all the tasks as we were most of the time working together.
+Although these are the main division of work, everyone patricipated in almost all the tasks as we were most of the time working and together discussing the results.

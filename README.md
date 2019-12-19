@@ -50,12 +50,12 @@ It compares the consuming behaviors of households with their demographic feature
 
 # Contribution
 
-Soner: Cleaning and descriptive analysis of demographic data and coupons, demogrpahic analysis, data story
+Soner: Preliminary data analysis of demographic data and coupons, deeper demogrpahic analysis (milestone 3), data story
 
-Thomas: Descriptive analysis and preprocessing of products, statistics, comenting of the resutls of the notebook
+Thomas: Preliminary data analysis and preprocessing of products, statistics, group comparison analysis.
 
-Benjamin: Cleaning and descriptive analysis of Transaction data, Group comparison analysis, Interactive plots for the data story
+Benjamin: Preliminary data analysis of Transaction data, Group comparison analysis, Interactive plots for the data story
 
-David: Cleaning and descriptive analysis of Transaction data, Time analysis, data story
+David: Preliminary data analysis of Transaction data, Time analysis, data story
 
 These are the main contributions but everyone patricipated in almost all the tasks as we were most of the time working together.

@@ -16,11 +16,10 @@ To do so, we are going to use the Dunnhumby dataset. This dataset contains shopp
 * Does the economical status of the household influence the meat consumption?
 * How does the family composition affect meat consumption?
 * Is there a relation between the age of the individual and her/his meat consumption?
-* How do the seasonal changes, bank holidays affect meat consumption?
+* How do the seasonal changes, and holidays affect different type of meat and vegetable consumption?
 * What is the influence of campaigns and discounts on meat consumption?
 ## Behavior Analysis of meat consumers
 * What are the other type of products that meat consumers frequently buy?
-* How much does meat consumption affect the sensitivity to a different type of campaigns?
 * Does meat consumption vary in time for a household?
 
 # Dataset
